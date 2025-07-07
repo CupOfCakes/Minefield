@@ -1,6 +1,7 @@
 # Minefield
 Final project for the "language and tecnique from programming" class.
 
+> ⚠️ **Note**: The game is fully written in **Portuguese (Brazilian)**.
 
 This game was developed in C, as taught in the course.
 ## How it works
